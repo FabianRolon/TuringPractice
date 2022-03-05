@@ -1,0 +1,7 @@
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\bin\Debug\TuringPracticeTest.exe.config
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\bin\Debug\TuringPracticeTest.exe
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\bin\Debug\TuringPracticeTest.pdb
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\obj\Debug\TuringPracticeTest.csprojAssemblyReference.cache
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\obj\Debug\TuringPracticeTest.csproj.CoreCompileInputs.cache
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\obj\Debug\TuringPracticeTest.exe
+C:\Users\Calidad\Desktop\Programas\Program\Turing\TuringPracticeTest\TuringPracticeTest\obj\Debug\TuringPracticeTest.pdb
